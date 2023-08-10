@@ -1,5 +1,5 @@
-/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/CMakeFiles/MainQtModules.dir
-/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/CMakeFiles/MainQtModules_autogen_timestamp_deps.dir
-/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/CMakeFiles/MainQtModules_autogen.dir
+/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/MainQtModules.dir
+/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/MainQtModules_autogen_timestamp_deps.dir
+/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/MainQtModules_autogen.dir

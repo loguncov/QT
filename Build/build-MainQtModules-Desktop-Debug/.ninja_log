@@ -1,8 +1,0 @@
-# ninja log v5
-0	46	1691678547244121933	MainQtModules_autogen/timestamp	fb9ab4ffacc8b872
-0	46	1691678547244121933	MainQtModules_autogen/mocs_compilation.cpp	fb9ab4ffacc8b872
-0	46	1691678547244121933	/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/timestamp	fb9ab4ffacc8b872
-0	46	1691678547244121933	/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/mocs_compilation.cpp	fb9ab4ffacc8b872
-46	51	1691678547256121948	CMakeFiles/MainQtModules.dir/MainQtModules_autogen/mocs_compilation.cpp.o	2c6e76108f301a28
-46	64	1691678547268121963	CMakeFiles/MainQtModules.dir/main.cpp.o	a8a1790707c57d53
-65	294	1691678547500122260	MainQtModules	51aacf511b5bed22

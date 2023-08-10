@@ -70,14 +70,14 @@
 			"includes" : 
 			[
 				{
-					"path" : "/home/pep/_git/QT/build-MainQtModules-Desktop-Debug"
+					"path" : "/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug"
 				},
 				{
 					"path" : "/home/pep/_git/QT/MainQtModules"
 				},
 				{
 					"backtrace" : 0,
-					"path" : "/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/include"
+					"path" : "/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/include"
 				},
 				{
 					"backtrace" : 2,
@@ -200,7 +200,7 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/mocs_compilation.cpp",
+			"path" : "Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -212,13 +212,13 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/timestamp",
+			"path" : "Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/timestamp",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/pep/_git/QT/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/timestamp.rule",
+			"path" : "Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/timestamp.rule",
 			"sourceGroupIndex" : 2
 		}
 	],

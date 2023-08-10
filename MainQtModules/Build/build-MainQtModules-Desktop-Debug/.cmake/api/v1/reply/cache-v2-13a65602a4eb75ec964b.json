@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug"
+			"value" : "/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -1023,7 +1023,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug"
+			"value" : "/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug"
 		},
 		{
 			"name" : "MainQtModules_IS_TOP_LEVEL",

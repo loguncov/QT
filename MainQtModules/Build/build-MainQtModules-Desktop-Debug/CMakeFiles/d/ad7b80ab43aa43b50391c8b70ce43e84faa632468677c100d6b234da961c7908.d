@@ -1,8 +1,8 @@
 MainQtModules_autogen/timestamp: \
   CMakeFiles/3.22.1/CMakeCXXCompiler.cmake \
   CMakeFiles/3.22.1/CMakeSystem.cmake \
-  /home/pep/_git/QT/MainQtModules/CMakeLists.txt \
-  /home/pep/_git/QT/MainQtModules/main.cpp \
+  ../../CMakeLists.txt \
+  ../../main.cpp \
   /usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake \
   /usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake \
   /usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake \

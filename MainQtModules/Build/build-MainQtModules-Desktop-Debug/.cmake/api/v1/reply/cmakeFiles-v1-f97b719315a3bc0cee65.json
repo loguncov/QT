@@ -20,7 +20,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/3.22.1/CMakeSystem.cmake"
+			"path" : "Build/build-MainQtModules-Desktop-Debug/CMakeFiles/3.22.1/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -259,7 +259,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
+			"path" : "Build/build-MainQtModules-Desktop-Debug/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -383,7 +383,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
+			"path" : "Build/build-MainQtModules-Desktop-Debug/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -454,7 +454,7 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/pep/_git/QT/Build/build-MainQtModules-Desktop-Debug",
+		"build" : "/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug",
 		"source" : "/home/pep/_git/QT/MainQtModules"
 	},
 	"version" : 

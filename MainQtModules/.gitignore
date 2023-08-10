@@ -1,0 +1,45 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Compiled Dynamic libraries
+*.dll
+*.dylib
+
+# Compiled Qt project files
+Makefile
+qmake.*
+
+# Qt Creator files
+*.autosave
+
+# Compiled Qt resource files
+*.qrc
+
+# Compiled UI files
+ui_*.h
+
+# Compiled Meta-Object Compiler files
+moc_*.cpp
+
+# Compiled C++ files from Qt's meta-object system
+qrc_*.cpp
+moc_*.h
+
+# Compiled C++ files from Qt's UI compiler
+ui_*.h
+
+# Temporary files
+*~
+*.swp
+*.tmp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Qt project settings and user files
+*.pro.user
+*.pro.user.*

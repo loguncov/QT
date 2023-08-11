@@ -49,7 +49,7 @@
 					"fragment" : "-fPIC"
 				},
 				{
-					"fragment" : "-std=gnu++11"
+					"fragment" : "-std=gnu++17"
 				}
 			],
 			"defines" : 
@@ -82,27 +82,27 @@
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "/usr/include/x86_64-linux-gnu/qt5"
+					"path" : "/usr/include/x86_64-linux-gnu/qt6/QtCore"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtCore"
+					"path" : "/usr/include/x86_64-linux-gnu/qt6"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"
+					"path" : "/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtNetwork"
+					"path" : "/usr/include/x86_64-linux-gnu/qt6/QtNetwork"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "/usr/include/x86_64-linux-gnu/qt5/QtSql"
+					"path" : "/usr/include/x86_64-linux-gnu/qt6/QtSql"
 				}
 			],
 			"language" : "CXX",
@@ -112,7 +112,7 @@
 				[
 					2
 				],
-				"standard" : "11"
+				"standard" : "17"
 			},
 			"sourceIndexes" : 
 			[
@@ -146,17 +146,17 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Network.so.5.15.3",
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt6Network.so.6.2.4",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.15.3",
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt6Sql.so.6.2.4",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3",
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libQt6Core.so.6.2.4",
 				"role" : "libraries"
 			}
 		],

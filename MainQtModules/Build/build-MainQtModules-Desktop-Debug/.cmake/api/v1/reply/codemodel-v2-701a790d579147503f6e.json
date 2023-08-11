@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.14"
+						"string" : "3.16"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -43,7 +43,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MainQtModules::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MainQtModules-Debug-c8a8d9c63ff3278d0b28.json",
+					"jsonFile" : "target-MainQtModules-Debug-d130e0bb7fc03d23adfb.json",
 					"name" : "MainQtModules",
 					"projectIndex" : 0
 				},

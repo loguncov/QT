@@ -1,8 +1,8 @@
 # ninja log v5
-0	42	1691678998144761960	MainQtModules_autogen/timestamp	7af329929d2e2129
-0	42	1691678998144761960	MainQtModules_autogen/mocs_compilation.cpp	7af329929d2e2129
-0	42	1691678998144761960	/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/timestamp	7af329929d2e2129
-0	42	1691678998144761960	/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/mocs_compilation.cpp	7af329929d2e2129
-43	72	1691678998180726596	CMakeFiles/MainQtModules.dir/MainQtModules_autogen/mocs_compilation.cpp.o	d2b529eb6cd841e3
-43	1912	1691679000014947015	CMakeFiles/MainQtModules.dir/main.cpp.o	f58c4aa4cd46b05d
-1913	2162	1691679000274703653	MainQtModules	51aacf511b5bed22
+0	55	1691741054349970865	MainQtModules_autogen/timestamp	7af329929d2e2129
+0	55	1691741054349970865	MainQtModules_autogen/mocs_compilation.cpp	7af329929d2e2129
+0	55	1691741054349970865	/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/timestamp	7af329929d2e2129
+0	55	1691741054349970865	/home/pep/_git/QT/MainQtModules/Build/build-MainQtModules-Desktop-Debug/MainQtModules_autogen/mocs_compilation.cpp	7af329929d2e2129
+56	60	1691741054365971048	CMakeFiles/MainQtModules.dir/MainQtModules_autogen/mocs_compilation.cpp.o	72519266b5b60844
+56	77	1691741054381971229	CMakeFiles/MainQtModules.dir/main.cpp.o	4571c2946a5ca0a4
+78	311	1691741054613973870	MainQtModules	22fdcdac89112404

@@ -1,0 +1,16 @@
+# ninja log v5
+0	758	1695728907693093992	PreUDPsocket_autogen/timestamp	6b1387a417336535
+0	758	1695728907693093992	PreUDPsocket_autogen/mocs_compilation.cpp	6b1387a417336535
+0	758	1695728907693093992	/home/pep/_git/QT/QTPreUDPsocket/Build/PreUDPsocket_autogen/timestamp	6b1387a417336535
+0	758	1695728907693093992	/home/pep/_git/QT/QTPreUDPsocket/Build/PreUDPsocket_autogen/mocs_compilation.cpp	6b1387a417336535
+785	7466	1695728914440774913	CMakeFiles/PreUDPsocket.dir/udpworker.cpp.o	84a5a310f32f84b8
+769	8270	1695728915248736771	CMakeFiles/PreUDPsocket.dir/main.cpp.o	11b5d7663825d7db
+759	8425	1695728915404729409	CMakeFiles/PreUDPsocket.dir/PreUDPsocket_autogen/mocs_compilation.cpp.o	649fe0f42b0b3fc
+775	8527	1695728915512724312	CMakeFiles/PreUDPsocket.dir/mainwindow.cpp.o	dc0853332e6a4775
+8527	9039	1695728916032699773	PreUDPsocket	ffc11a4c72aef16c
+2	42	1695729048768107609	PreUDPsocket_autogen/timestamp	6b1387a417336535
+2	42	1695729048768107609	PreUDPsocket_autogen/mocs_compilation.cpp	6b1387a417336535
+2	42	1695729048768107609	/home/pep/_git/QT/QTPreUDPsocket/Build/PreUDPsocket_autogen/timestamp	6b1387a417336535
+2	42	1695729048768107609	/home/pep/_git/QT/QTPreUDPsocket/Build/PreUDPsocket_autogen/mocs_compilation.cpp	6b1387a417336535
+43	322	1695729049048126664	CMakeFiles/PreUDPsocket.dir/mainwindow.cpp.o	dc0853332e6a4775
+322	803	1695729049528159178	PreUDPsocket	ffc11a4c72aef16c

@@ -1,5 +1,0 @@
-/home/pep/_git/QT/QTPreUDPsocket/Build/CMakeFiles/PreUDPsocket.dir
-/home/pep/_git/QT/QTPreUDPsocket/Build/CMakeFiles/edit_cache.dir
-/home/pep/_git/QT/QTPreUDPsocket/Build/CMakeFiles/rebuild_cache.dir
-/home/pep/_git/QT/QTPreUDPsocket/Build/CMakeFiles/PreUDPsocket_autogen_timestamp_deps.dir
-/home/pep/_git/QT/QTPreUDPsocket/Build/CMakeFiles/PreUDPsocket_autogen.dir

@@ -27,16 +27,30 @@ void UDPworker::InitSocket()
 
 /*!
  * @brief Метод осуществляет обработку принятой датаграммы
+ * @param datagram - принятая датаграмма
  */
 void UDPworker::ReadDatagram(QNetworkDatagram datagram) {
+    // Извлекаем данные из датаграммы
     QByteArray data = datagram.data();
+
+    // Извлекаем адрес отправителя
     QString senderAddress = datagram.senderAddress().toString();
+
+    // Вычисляем размер сообщения
     int messageSize = data.size();
 
-    // Отправляем сигнал с данными в интерфейс
+    // Отправляем сигнал с полученными данными (адрес отправителя и размер сообщения) в интерфейс
     emit sig_sendReceivedData(senderAddress, messageSize);
 
-    // Добавьте здесь код для обработки полученных данных, если это необходимо.
+    // Добавьте здесь код для дополнительной обработки полученных данных, если это необходимо.
+
+    // Извлекаем и декодируем время из данных датаграммы
+    QDataStream inStr(&data, QIODevice::ReadOnly);
+    QDateTime dateTime;
+    inStr >> dateTime;
+
+    // Отправляем извлеченное время в интерфейс
+    emit sig_sendTimeToGUI(dateTime);
 }
 
 /*!

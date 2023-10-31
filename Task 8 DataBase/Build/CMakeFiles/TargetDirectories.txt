@@ -1,0 +1,5 @@
+C:/Users/pk/Documents/GitHub/QT/Task 8 DataBase/Build/CMakeFiles/PreDataBase.dir
+C:/Users/pk/Documents/GitHub/QT/Task 8 DataBase/Build/CMakeFiles/edit_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 8 DataBase/Build/CMakeFiles/rebuild_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 8 DataBase/Build/CMakeFiles/PreDataBase_autogen_timestamp_deps.dir
+C:/Users/pk/Documents/GitHub/QT/Task 8 DataBase/Build/CMakeFiles/PreDataBase_autogen.dir

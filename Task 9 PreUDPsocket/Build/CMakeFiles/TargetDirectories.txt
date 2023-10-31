@@ -1,0 +1,5 @@
+C:/Users/pk/Documents/GitHub/QT/Task 9 PreUDPsocket/Build/CMakeFiles/PreUDPsocket.dir
+C:/Users/pk/Documents/GitHub/QT/Task 9 PreUDPsocket/Build/CMakeFiles/edit_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 9 PreUDPsocket/Build/CMakeFiles/rebuild_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 9 PreUDPsocket/Build/CMakeFiles/PreUDPsocket_autogen_timestamp_deps.dir
+C:/Users/pk/Documents/GitHub/QT/Task 9 PreUDPsocket/Build/CMakeFiles/PreUDPsocket_autogen.dir

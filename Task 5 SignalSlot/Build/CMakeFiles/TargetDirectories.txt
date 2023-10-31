@@ -1,0 +1,9 @@
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/SignalSlot.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/edit_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/rebuild_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/list_install_components.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/install.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/install/local.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/install/strip.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/SignalSlot_autogen_timestamp_deps.dir
+C:/Users/pk/Documents/GitHub/QT/Task 5 SignalSlot/Build/CMakeFiles/SignalSlot_autogen.dir

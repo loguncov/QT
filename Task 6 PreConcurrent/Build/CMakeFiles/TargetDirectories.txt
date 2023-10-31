@@ -1,0 +1,5 @@
+C:/Users/pk/Documents/GitHub/QT/Task 6 PreConcurrent/Build/CMakeFiles/Concurrent.dir
+C:/Users/pk/Documents/GitHub/QT/Task 6 PreConcurrent/Build/CMakeFiles/edit_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 6 PreConcurrent/Build/CMakeFiles/rebuild_cache.dir
+C:/Users/pk/Documents/GitHub/QT/Task 6 PreConcurrent/Build/CMakeFiles/Concurrent_autogen_timestamp_deps.dir
+C:/Users/pk/Documents/GitHub/QT/Task 6 PreConcurrent/Build/CMakeFiles/Concurrent_autogen.dir
